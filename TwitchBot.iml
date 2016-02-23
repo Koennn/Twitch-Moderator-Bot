@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <output url="file://$MODULE_DIR$/out/production/TwitchBot" />
+    <output-test url="file://$MODULE_DIR$/out/test/TwitchBot" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="guava-18.0" level="project" />
+    <orderEntry type="library" name="commons-lang3-3.4" level="project" />
+    <orderEntry type="library" name="slf4j-simple-1.7.17" level="project" />
+    <orderEntry type="library" name="slf4j-api-1.7.17" level="project" />
+    <orderEntry type="library" name="pircbotx-2.1" level="project" />
+    <orderEntry type="library" name="json-simple-1.1" level="project" />
+    <orderEntry type="library" name="commons-io-2.4" level="project" />
+    <orderEntry type="library" name="gson-2.3.1" level="project" />
+    <orderEntry type="library" name="jfxswt" level="project" />
+  </component>
+</module>
