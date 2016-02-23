@@ -1,3 +1,0 @@
-Username: koennbot
-Password: oauth:g0jwrseebaftowa3576n4sidcnozdm
-Channel: jermaino_o
